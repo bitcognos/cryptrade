@@ -61,4 +61,5 @@ popular exchanges such as MtGox, Bitstamp, BTC-E and CEX.IO.
     
     
 
-**This is beta software, use it at your own risk**
+**Please note this tool is for testing purposes only and provides limited functionality for live trading as compared to Cryptotrader site functionality**
+
